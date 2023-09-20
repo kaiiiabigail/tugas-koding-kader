@@ -1,0 +1,13 @@
+.bambang{
+    color: blue;
+    background-color: red;
+}
+#bambang{
+    color: blue;
+}
+.gambar{
+    width: 200px;
+    height: 200px;
+    background-image: url(https://source.unsplah.com/100x100?bird);
+    background-repeat: no-repeat;
+}
